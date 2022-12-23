@@ -1,4 +1,4 @@
-### Hi there 👋 Merry Christmas and a Happy New Year 2023! 🎄🚀
+### Merry Christmas and a Happy New Year 2023! 🎄🚀
 
 <!--
 **real-napster/real-napster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
