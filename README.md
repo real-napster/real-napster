@@ -3,9 +3,9 @@
 Welcome to my GitHub profile!
 
 🌱 **Skills**
-- Programming Languages: MSSQL, PLSQL, C#, SSIS, Git, Python, HTML, CSS
-- Frameworks: JS, Python, Bootstrap, VueJS, ASP.NET
-- Tools: Visual Studio, VCode, SSMS, GitLab/GitHub, Azure DevOps
+- Programming Languages: MSSQL, PLSQL, C#, SSIS, Git, HTML, CSS
+- Frameworks: Python, Tailwind, Bootstrap, ASP.NET
+- Tools: Visual Studio, VCode, SSMS, GitLab/GitHub
 
 💼 **Experience**
 - [CANCOM](https://www.cancom.de): Expert Data, Business Solutions, Senior Software Engineer
