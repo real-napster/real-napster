@@ -12,9 +12,7 @@ Welcome to my GitHub profile!
 - [21webdesign](https://www.21webdesign.de): Sidehuste
 
 📫 **Contact**
-- Instagram: [Instagram](https://www.instagram.com/benwiens/)
-- Twitter: [Twitter](https://twitter.com/dernapster)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/benjamin-wiens-43a9b1123/)
-- E-Mail: ich@benwiens.de
+- E-Mail: have a look at benwiens.de
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=real-napster&show_icons=true&count_private=true&hide=contribs)](https://github.com/real-napster)
