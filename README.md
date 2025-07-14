@@ -7,7 +7,7 @@ Welcome to my GitHub profile!
 - Frameworks: Python, Tailwind, Bootstrap, ASP.NET
 - Tools: Visual Studio, VCode, SSMS, GitLab/GitHub
 
-💼 **Experience**
+💼 **Job log**
 - [CANCOM](https://www.cancom.de): Expert Data, Business Solutions, Senior Software Engineer
 - [21webdesign](https://www.21webdesign.de): Sidehuste
 
